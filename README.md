@@ -1,1 +1,3 @@
-# wuerfel
+# Münzwurf
+
+DAs ist ein Spiel, bei dem eine Münze geworfen wird und der Zufall entscheidet, ob es Kopf oder Zahl wird...
